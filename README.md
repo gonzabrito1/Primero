@@ -11,4 +11,3 @@
 - Si tengo repositorio y ya tengo mi proyecto ahi ..
 
 - git push 
-- No me salio el Readme
